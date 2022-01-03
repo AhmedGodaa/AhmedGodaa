@@ -3,8 +3,10 @@
 
 # Hello! 👋️
 [![Linkedin: AhmedGodaa](https://img.shields.io/badge/-AhmedGodaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedgodaa/)](https://www.linkedin.com/in/ahmedgodaa/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/ahmedgodaa?label=follow&style=social)](https://github.com/AhmedGodaa)
+[![Gmail Badge](https://img.shields.io/badge/-ana.a7med1140@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana.a7med1140@gmail.com)](ana.a7med1140@gmail.com)
 ![](https://komarev.com/ghpvc/?username=AhmedGodaa&color=blue)
+[![GitHub Ahmed](https://img.shields.io/github/followers/ahmedgodaa?label=follow&style=social)](https://github.com/AhmedGodaa)
+
 
 Hi, It’s Ahmed,  Software Engineer with great experience in Android development built well-designed and professional real applications with high quality, skilled in Object-Oriented Programming (OOP), and has solid knowledge with Java and Kotlin programming languages.
 Please Feel free to Chat I’m available  <a href="https://wa.me/201208056263" target="_blank">WhatsApp</a>  |  <a href="https://www.linkedin.com/in/ahmedgodaa/" target="_blank">Linkedin</a> .
