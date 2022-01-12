@@ -16,6 +16,65 @@ Please Feel free to Chat I’m available  <a href="https://wa.me/201208056263" t
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<table align="center">
+  <tr>
+  <td align="center" width="96">
+      <a href="#Android Studio">
+        <img src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" width="48" height="48" alt="Android Studio" />
+      </a>
+      <br>Android Studio
+    </td>
+      <td align="center" width="96">
+      <a href="#koltin">
+        <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" width="48" height="48" alt="Kotlin" />
+      </a>
+      <br>&nbsp;Kotlin&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#Rxjava" >
+        <img src="https://seeklogo.com/images/R/rxjs-logo-DD3DF87EEF-seeklogo.com.png" width="48" height="48" alt="Rxjava" />
+      </a>
+      <br>Rxjava  
+    </td>
+    <td align="center" width="96">
+      <a href="#Firebase" >
+        <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="48" height="48" alt="Rxjava" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#Python" >
+        <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="48" height="48" alt="Rxjava" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#Intellij" >
+        <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="48" height="48" alt="Intellij" />
+      </a>
+      <br>&nbsp;Intellij&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#Python" >
+        <img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png" width="48" height="48" alt="Rxjava" />
+      </a>
+      <br>Adobe&nbsp;Xd
+    </td>
+    <td align="center" width="96">
+      <a href="#Python" >
+        <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="48" height="48" alt="Rxjava" />
+      </a>
+      <br>&nbsp;&nbsp;Java&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#Python" >
+        <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" height="48" alt="Rxjava" />
+      </a>
+      <br>&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+</table>
+
+
 
 
 <br/>
