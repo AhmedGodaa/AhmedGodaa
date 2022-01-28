@@ -11,8 +11,7 @@
 I'm a Software Engineer at <a href="https://www.linkedin.com/company/goda-software" target="_blank">Godaa</a> and the creator of the open source projects below 👇
 <br/>
 <br/>
-I love building Design and implement services, applications, and frameworks for mobile platforms and contributing to open source projects. Android is my favored tool, but I also enjoy working with other languages like Python, C, C++.
-<br/>
+I love building Design and implement services, applications, and frameworks for mobile platforms and contributing to open source projects. Android is my favored tool, but I also enjoy working with other languages like Python.
 <br/>
 Please Feel free to Chat I’m available  <a href="https://wa.me/201208056263" target="_blank">WhatsApp</a>  |  <a href="https://www.linkedin.com/in/ahmedgodaa/" target="_blank">Linkedin</a> .
 
