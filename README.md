@@ -5,7 +5,6 @@
 [![Linkedin: AhmedGodaa](https://img.shields.io/badge/-AhmedGodaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedgodaa/)](https://www.linkedin.com/in/ahmedgodaa/)
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=flat-squar&logo=whatsapp&logoColor=white&link=https://www.linkedin.com/in/ahmedgodaa/)](https://wa.me/201208056263)
 [![Gmail Badge](https://img.shields.io/badge/-ana.a7med1140@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana.a7med1140@gmail.com)](ana.a7med1140@gmail.com)
-![](https://komarev.com/ghpvc/?username=AhmedGodaa&color=blue)
 [![GitHub Ahmed](https://img.shields.io/github/followers/ahmedgodaa?label=follow&style=social)](https://github.com/AhmedGodaa)
 
 I'm a Software Engineer at <a href="https://www.linkedin.com/company/goda-software" target="_blank">Godaa</a> and the creator of the open source projects below 👇
