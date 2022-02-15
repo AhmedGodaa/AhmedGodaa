@@ -95,9 +95,14 @@ Please Feel free to Chat I’m available  <a href="https://wa.me/201208056263" t
 
 
 
+
+
    
-|  **Restaurant App**| **Hiking App** |
-|--|--|
-| <p align="center"> <img src="https://user-images.githubusercontent.com/73083104/154016909-056e335a-5cc1-431d-93e0-87948e891224.png" width="60%"> </p> | <p align="center"> <img src="https://user-images.githubusercontent.com/73083104/154016803-65de32b1-0e1a-4ed1-be24-f26683fa2094.png" width="60%">
+|  **Restaurant App**| **Hiking App** | **Crypto App** |
+|--|--|--|
+| <p align="center"> <img src="https://user-images.githubusercontent.com/73083104/154016909-056e335a-5cc1-431d-93e0-87948e891224.png" width="60%"> </p> | <p align="center"> <img src="https://user-images.githubusercontent.com/73083104/154016803-65de32b1-0e1a-4ed1-be24-f26683fa2094.png" width="60%"> | <p align="center"> <img src="https://user-images.githubusercontent.com/73083104/154044064-29d1b03a-035a-49fb-933c-b8857f5df6ad.png" width="60%">
+  
+
+
 
 
