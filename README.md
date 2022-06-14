@@ -1,5 +1,4 @@
-![iPhone 12 Pro Max – 18](https://user-images.githubusercontent.com/73083104/147924968-7fdd34f0-4e13-4f9d-b450-15deb2dd4cb1.png)
-
+![iPhone 12 Pro Max – 20](https://user-images.githubusercontent.com/73083104/173566844-e0c31c2b-98fb-4e05-a33d-997d9d885234.png)
 
 # Hi there 👋️
 [![Linkedin: AhmedGodaa](https://img.shields.io/badge/-AhmedGodaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedgodaa/)](https://www.linkedin.com/in/ahmedgodaa/) [![](https://img.shields.io/badge/WhatsApp-25D366?style=flat-squar&logo=whatsapp&logoColor=white&link=https://www.linkedin.com/in/ahmedgodaa/)](https://wa.me/201208056263) [![Gmail Badge](https://img.shields.io/badge/-ana.a7med1140@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana.a7med1140@gmail.com)](ana.a7med1140@gmail.com) [![GitHub Ahmed](https://img.shields.io/github/followers/ahmedgodaa?label=follow&style=social)](https://github.com/AhmedGodaa)
@@ -11,77 +10,65 @@ I love building Design and implement services, applications, and frameworks for 
 Please Feel free to Chat I’m available  <a href="https://wa.me/201208056263" target="_blank">WhatsApp</a>  |  <a href="https://www.linkedin.com/in/ahmedgodaa/" target="_blank">Linkedin</a> .
 
 ### Languages and Tools
-
 <table align="center">
-  <tr>
-  <td align="center" width="96">
-      <a href="#Android">
-        <img src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" width="48" />
-      </a>
-      <br>Android
-    </td>
-           <td align="center" width="96">
-      <a href="#Python" >
-        <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" width="48" />
-      </a>
-      <br>&nbsp;&nbsp;Spring&nbsp;Boot&nbsp;&nbsp;
-    </td>
-        <td align="center" width="96">
-      <a href="#Python" >
-        <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="43" />
-      </a>
-      <br>&nbsp;&nbsp;Java&nbsp;&nbsp;
-    </td>
-      <td align="center" width="96">
-      <a href="#koltin">
-        <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" width="48" />
-      </a>
-      <br>&nbsp;Kotlin&nbsp;
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" width="55"/>
+        <br>Android
     </td>
     <td align="center" width="96">
-      <a href="#MySQL" >
-        <img src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" width="60"  />
-      </a>
-      <br>&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;  
+        <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" width="48"/>
+        <br>&nbsp;&nbsp;Spring&nbsp;Boot&nbsp;&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#Firebase" >
-        <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="35" />
-      </a>
-      <br>Firebase
+        <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="43"/>
+        <br>&nbsp;&nbsp;Java&nbsp;&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#Python" >
-        <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="48" />
-      </a>
-      <br>Postman
+        <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" width="48"/>
+        <br>&nbsp;Kotlin&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#Intellij" >
-        <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="48" alt="Intellij" />
-      </a>
-      <br>&nbsp;Intellij&nbsp;
+        <img src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" width="60"/>
+        <br>&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#Python" >
-        <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Rxjava" />
-      </a>
-      <br>&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
-       <td align="center" width="96">
-      <a href="#Python" >
-        <img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png" width="48" alt="Rxjava" />
-      </a>
-      <br>Adobe&nbsp;Xd
+        <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" width="70"/>
+        <br>&nbsp;&nbsp;Docker&nbsp;&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#Python" >
-        <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" width="30"  alt="Rxjava" />
-      </a>
-      <br>Figma
+        <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" width="60"/>
+        <br>Kubernetes
     </td>
-
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="60"/>
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="35"/>
+        <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="48"/>
+        <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="48"/>
+        <br>&nbsp;Intellij&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Rxjava"/>
+        <br>&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png" width="48" alt="Rxjava"/>
+        <br>Adobe&nbsp;Xd
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" width="30" alt="Rxjava"/>
+        <br>Figma
+    </td>
 </table>
+
 
 
 
