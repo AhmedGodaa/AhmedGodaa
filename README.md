@@ -23,8 +23,8 @@ Feel free to Chat I’m available
         <br>&nbsp;Kotlin&nbsp;
     </td>
        <td align="center" width="96">
-        <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" width="80"/>
-        <br>&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;
+        <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" width="60"/>
+        <br>&nbsp;Angular&nbsp;
     </td>
          <td align="center" width="96">
         <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="70"
@@ -43,6 +43,10 @@ Feel free to Chat I’m available
         <br>&nbsp;&nbsp;MongoDB&nbsp;&nbsp;&nbsp;
     </td>
     </td> 
+       <td align="center" width="96">
+        <img src="https://seeklogo.com/images/K/kafka-logo-8E01E03CAD-seeklogo.com.png" width="55"/>
+        <br>&nbsp;Kafka&nbsp;
+    </td>
       <td align="center" width="96">
         <img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" width="60"/>
         <br>Github Actions
